@@ -2,8 +2,8 @@ import 'dart:math';
 
 import 'package:currency_text_input_formatter/currency_text_input_formatter.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_default_state_manager/bloc_pattern/imc_bloc_pattern_controller.dart';
-import 'package:flutter_default_state_manager/bloc_pattern/imc_state.dart';
+import 'package:flutter_imc_calculator/bloc_pattern/imc_bloc_pattern_controller.dart';
+import 'package:flutter_imc_calculator/bloc_pattern/imc_state.dart';
 import 'package:intl/intl.dart';
 
 import '../widgets/imc_gauge.dart';

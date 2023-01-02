@@ -2,8 +2,8 @@ import 'dart:math';
 
 import 'package:currency_text_input_formatter/currency_text_input_formatter.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_default_state_manager/change_notifier/imc_change_notifier_controller.dart';
-import 'package:flutter_default_state_manager/widgets/imc_gauge.dart';
+import 'package:flutter_imc_calculator/change_notifier/imc_change_notifier_controller.dart';
+import 'package:flutter_imc_calculator/widgets/imc_gauge.dart';
 import 'package:intl/intl.dart';
 
 class ImcChangeNotifierPage extends StatefulWidget {

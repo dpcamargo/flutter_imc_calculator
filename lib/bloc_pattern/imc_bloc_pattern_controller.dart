@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:flutter_default_state_manager/bloc_pattern/imc_state.dart';
+import 'package:flutter_imc_calculator/bloc_pattern/imc_state.dart';
 
 class ImcBlocPatternController {
   final _imcStreamController = StreamController<ImcState>.broadcast()

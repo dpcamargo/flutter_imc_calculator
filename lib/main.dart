@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_default_state_manager/home_page.dart';
+import 'package:flutter_imc_calculator/home_page.dart';
 
 void main() {
   runApp(const MyApp());
